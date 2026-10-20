@@ -1,6 +1,6 @@
 ### Hi, I'm Umang 👋
 
-I build hardware and AI that make technology work for more people. I'm a freshman at **Cornell** and the founder of **[Jdable](https://jdable.org)**, a nonprofit making assistive tech affordable.
+I build hardware and AI that make technology work for more people. I'm a freshman at **Cornell** and the founder of **[Jdable](https://jdable.org)**, a startup making assistive tech affordable.
 
 🌐 [umangsharma.xyz](https://umangsharma.xyz) · 💼 [LinkedIn](https://www.linkedin.com/in/umangssharma) · 🎤 [TEDx talk](https://www.youtube.com/watch?v=fLmdTt0d8Fc) · 🏆 [Devpost](https://devpost.com/Umang3211)
 
